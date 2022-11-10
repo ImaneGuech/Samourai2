@@ -11,6 +11,7 @@ public class Humain {
 		this.argent=argent;
 	}
 	
+	
 	public void ajouterArgent(int value) {
 		argent=value;
 		
